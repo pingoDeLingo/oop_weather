@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+}
+body{
+    background-image:url("https://media3.giphy.com/media/vLi3T5m3RH45y/giphy.gif");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#weather, #change-city {
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+
+}
